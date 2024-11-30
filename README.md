@@ -1,5 +1,3 @@
-Here’s the updated README.md file with the necessary steps for others to code the app while keeping relevant parts of the original text:
-
 # StickerSmash  
 
 Turn your photos into fun, creative masterpieces with **StickerSmash**! Add a variety of stickers to your images, customize them as you like, and save your creations or share them with friends.  
@@ -92,5 +90,3 @@ To learn more about developing with Expo, explore the following resources:
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 - 
 Happy coding! 🎉
-
-This updated **README.md** provides all the necessary steps to start coding the app while preserving relevant information for new developers. Let me know if you need any further refinements!
